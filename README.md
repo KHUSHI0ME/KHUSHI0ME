@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="KHUSHI0ME's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">Hi 👋, I'm Khushi Khandelwal</h1>
 <h3 align="center">A passionate third year artificial intelligence engineering student</h3>
 
